@@ -1,0 +1,16 @@
+net: "densenet161_train.prototxt"  	
+type : "SGD"         
+
+lr_policy: "step"
+momentum: 0.9
+base_lr: 0.001
+gamma: 0.1
+weight_decay: 0.0001
+display: 100
+
+stepsize: 66144
+max_iter: 124020
+snapshot: 4134
+
+snapshot_prefix: "snapshot_dir"
+solver_mode: GPU
