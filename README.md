@@ -15,7 +15,7 @@ We proposed a motion blurred finger-vein restoration system with modified Blind 
 <br>
 
 ### Motion blurred image database
-[link][datasets]
+Motion blurred image database is available through this [link][datasets]
 
 
 [datasets]:https://drive.google.com/file/d/1rws7K3lB08VTgimSfhMI9zZRYi4k3yxm/view?usp=sharing
